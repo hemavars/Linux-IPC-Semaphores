@@ -122,7 +122,7 @@ int main() {
 $ ./sem.o 
 $ ipcs
 
-![image](img/src1.png)
+![image](img/src23.png)
 
 ![image](img/src2.png)
 
